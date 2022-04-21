@@ -1,2 +1,0 @@
-# RiesgosFinancieros
-Clases riesgos financieros
